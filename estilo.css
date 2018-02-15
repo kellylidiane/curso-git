@@ -1,6 +1,15 @@
 body {
 	background-color: darkblue;
 	font-size: 200%;
-	border: 1px solid black;
+	border: 8px dotted yellow;
+	border-radius: 5%;
 	color: lightpink;
+	padding: 20px;
+	font-family: Helvetica;
+	float: right;
+	text-align: center;
+}
+
+footer {
+	color: cyan;
 }
